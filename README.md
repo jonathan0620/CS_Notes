@@ -8,8 +8,8 @@
 ## 📌 정리한 주제 목록
 
 ### 운영체제 (Operating System)
-- [v] 프로세스와 스레드
-- [V] CPU 스케줄링 (FCFS, SJF, RR)
+- [X] 프로세스와 스레드
+- [X] CPU 스케줄링 (FCFS, SJF, RR)
 - [ ] 문맥 교환 (Context Switch)
 - [ ] 메모리 관리 (페이징, 세그멘테이션)
 - [ ] 파일 시스템
