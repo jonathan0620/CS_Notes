@@ -16,7 +16,7 @@
 
 ### 네트워크 (Network)
 - [ ] OSI 7계층
-- [ ] TCP/IP 구조
+- [x] TCP/IP 구조
 - [ ] HTTP vs HTTPS
 - [ ] 3-Way Handshake / 4-Way Handshake
 - [ ] DNS 동작 원리
