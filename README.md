@@ -10,7 +10,7 @@
 ### 운영체제 (Operating System)
 - [X] 프로세스와 스레드
 - [X] CPU 스케줄링 (FCFS, SJF, RR)
-- [ ] 문맥 교환 (Context Switch)
+- [x] 문맥 교환 (Context Switch)
 - [ ] 메모리 관리 (페이징, 세그멘테이션)
 - [ ] 파일 시스템
 
