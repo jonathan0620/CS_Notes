@@ -15,7 +15,7 @@
 - [ ] 파일 시스템
 
 ### 네트워크 (Network)
-- [ ] OSI 7계층
+- [x] OSI 7계층
 - [x] TCP/IP 구조
 - [x] HTTP vs HTTPS
 - [ ] 3-Way Handshake / 4-Way Handshake
